@@ -1,0 +1,40 @@
+.toolBrowser {
+    position: absolute;
+    border: 3px solid black;
+    width: 200px;
+    height: 80%;
+}
+
+    .toolBrowser>#controls {
+        height: 24px;
+        width: 100%;
+        margin: 3px;
+    }
+
+.category {
+    border: 1px solid black;
+    margin: 4px;
+    padding: 2px;
+    cursor: pointer;
+}
+
+.tool {
+    height: 50px;
+    border: 1px solid black;
+    background: lightgray;
+    padding: 4px;
+    margin: 3px;
+    cursor: pointer;
+}
+
+.selected {
+    border: 2px solid red;
+}
+
+#canvas {
+    border: 3px solid gray;
+    width: 60%;
+    height: 80%;
+    position: absolute;
+    left: 216px;
+}

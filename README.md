@@ -1,1 +1,1 @@
-PHP with React tests.
+Painting app written with ReactJS and PHP.
